@@ -23,8 +23,8 @@ echo "Download and install PortProton"
 
 wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sh PortProton_1.0 
 
-echo "Resore SteamOS redad-only mode"
+echo "Restore SteamOS read-only mode"
 
 steamos-readonly enable
 
-echo "Good game"
+echo "Done"
