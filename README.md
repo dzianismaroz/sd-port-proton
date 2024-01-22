@@ -1,6 +1,5 @@
-# sd-port-proton
-Install PortPorton on Steam Deck
+# Install ProtPorton on Steam Deck
 
-1. download script sd-port-proton.sh
-2. make it executable : *chmod +x ./sd-port-proton.sh*
-3. execute as root : *sudo ./sd-port-proton.sh*
+1. Download script:      [sd-port-proton.sh](https://github.com/dzianismaroz/sd-port-proton/archive/refs/tags/sd-port-proton.zip)
+2. Make it executable: ```chmod +x sd-port-proton.sh```
+3. Execute as root: ```sudo sd-port-proton.sh```
