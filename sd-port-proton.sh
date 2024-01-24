@@ -1,6 +1,14 @@
 #!/bin/bash
 
-clear 
+clear
+
+echo -e '###############################################'
+echo -e '\tInstall all dependencies for PortProton 1.0'
+echo -e '###############################################'
+echo -e
+echo -e 'Please provide your sudo password'
+
+[ "$UID" -eq 0 ] || exec sudo "$0" "$@"
 
 steamos-readonly disable >> /dev/null
 
@@ -28,6 +36,6 @@ echo "Done"
 
 echo "Download and install PortProton"
 
-wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sudo -u deck bash ./PortProton_1.0 
+wget -c "https://github.com/Castro-Fidel/PortWINE/raw/master/portwine_install_script/PortProton_1.0" && sudo -u deck bash ./PortProton_1.0
 
 
