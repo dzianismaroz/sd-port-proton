@@ -19,7 +19,7 @@ pacman-key --populate &> /dev/null
 
 echo "Installing cabextract and required dependencies"
 
-pacman -S --noconfirm cabextract &> /dev/null
+pacman -Sy --noconfirm cabextract &> /dev/null
 pacman -Syu --noconfirm bash icoutils wget bubblewrap zstd bc tar openssl \
 gamemode desktop-file-utils curl dbus freetype2 gdk-pixbuf2 ttf-font &> /dev/null
 pacman -Syu --noconfirm zenity &> /dev/null
