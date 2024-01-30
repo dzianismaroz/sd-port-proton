@@ -25,3 +25,6 @@
 7. Type your sudo password\
 ![Screenshot_20240124_114028](https://github.com/dzianismaroz/sd-port-proton/assets/43498404/42978162-c08e-40c3-9864-b71ddabd6cb7)
 
+## Troubleshooting
+
+in case of any problem to boot steamOs use [this workaround](https://www.coburnsdomain.com/2023/10/fix-being-unable-to-boot-back-into-steamos-after-a-bios-update)
