@@ -1,4 +1,5 @@
 # Install PortProton on Steam Deck
+* **Attention**. Install on SteamOS stable v >= 3.5.7
 * start Installation in [Desktop mode](https://help.steampowered.com/en/faqs/view/671A-4453-E8D2-323C)
 * [Sudo password required](https://windowsreport.com/steam-deck-sudo-password)
 1. Download script:      [sd-port-proton.sh](https://github.com/dzianismaroz/sd-port-proton/archive/refs/tags/sd-port-proton.zip)
