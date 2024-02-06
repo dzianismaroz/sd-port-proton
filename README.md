@@ -1,7 +1,12 @@
+### Troubleshooting
+
+In case of any problem to boot SteamOS \(v.3.5.5 affected\) use [this workaround](https://www.coburnsdomain.com/2023/10/fix-being-unable-to-boot-back-into-steamos-after-a-bios-update)
+
 # Install PortProton on Steam Deck
-* **Attention**. Install on stable SteamOS v. 3.5.7
+* **Attention**. $${\color{orangered}Install \space \color{orangered}on \space \color{orangered}stable \space \color{orangered}SteamOS \space\color{orangered}{v.3.5.7}}$$
 * Start Installation in [Desktop mode](https://help.steampowered.com/en/faqs/view/671A-4453-E8D2-323C)
 * [Sudo password required](https://windowsreport.com/steam-deck-sudo-password)
+  
 1. Download script:      [sd-port-proton.sh](https://github.com/dzianismaroz/sd-port-proton/archive/refs/tags/sd-port-proton.zip)
 
 ![Screenshot_20240124_113317](https://github.com/dzianismaroz/sd-port-proton/assets/43498404/2e21e4b1-01b5-46d1-9032-bdb5ba123859)
@@ -26,6 +31,3 @@
 7. Type your sudo password\
 ![Screenshot_20240124_114028](https://github.com/dzianismaroz/sd-port-proton/assets/43498404/42978162-c08e-40c3-9864-b71ddabd6cb7)
 
-## Troubleshooting
-
-In case of any problem to boot SteamOS \(v.3.5.5 affected\) use [this workaround](https://www.coburnsdomain.com/2023/10/fix-being-unable-to-boot-back-into-steamos-after-a-bios-update)
