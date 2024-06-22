@@ -1,3 +1,6 @@
+this installation is no longer compatible with latest Steam OS verions.
+please use official [installer](https://flathub.org/apps/ru.linux_gaming.PortProton)
+
 ### Troubleshooting
 
 In case of any problem to boot SteamOS \(v.3.5.5 affected\) use [this workaround](https://www.coburnsdomain.com/2023/10/fix-being-unable-to-boot-back-into-steamos-after-a-bios-update)
