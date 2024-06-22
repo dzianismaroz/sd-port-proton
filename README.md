@@ -1,4 +1,4 @@
-# this installation is no longer compatible with latest Steam OS versions.
+## This installation is no longer compatible with latest Steam OS versions.
 please use official [installer](https://flathub.org/apps/ru.linux_gaming.PortProton)
 
 ### Troubleshooting
