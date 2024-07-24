@@ -1,5 +1,6 @@
-## This installation is no longer supported.
-Please use official  [installer](https://flathub.org/apps/ru.linux_gaming.PortProton) 
+## This projects is no loger supported.
+
+### Please use official  [installer](https://flathub.org/apps/ru.linux_gaming.PortProton) 
 
 ### Troubleshooting
 
